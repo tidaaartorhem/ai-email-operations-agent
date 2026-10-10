@@ -110,6 +110,10 @@ def run() -> dict:
             "res_target_min": s.res_target,
             "queue_age_min": round(s.resolution_clock_min, 1),
             "queue_age_human": fmt_min(s.resolution_clock_min),
+            "response_clock_min": (round(s.response_clock_min, 1)
+                                   if s.response_clock_min is not None else None),
+            "dead_air_min": (round(s.dead_air_min, 1)
+                             if s.dead_air_min is not None else None),
             "close_candidate": s.close_candidate,
             "silent_breach": s.silent_breach,
             "action": act.kind,
