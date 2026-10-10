@@ -1,0 +1,10 @@
+{
+ "project": "ai-email-operations-agent",
+ "generated_at": "2026-10-10T12:50:26.072516+00:00",
+ "corpus": "4000 real SpotifyCares support threads (Customer Support on Twitter, Kaggle, via pandarudra/csa)",
+ "corpus_as_of": "2017-11-20T12:00:00+00:00",
+ "replay_note": "Queue state is a deterministic replay of the morning of 2017-11-20: only turns at or before that timestamp are visible to the pipeline.",
+ "classifier": "TF-IDF + MultinomialNB, trained on 1146 deterministic keyword seed labels",
+ "queue_limit": 250,
+ "deterministic": true
+}

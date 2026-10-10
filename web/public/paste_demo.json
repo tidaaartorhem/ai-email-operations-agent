@@ -1,0 +1,22 @@
+[
+ {
+  "text": "I was charged twice for premium this month, please refund the second charge.",
+  "intent": "billing",
+  "confidence": 0.95
+ },
+ {
+  "text": "My app keeps crashing every time I try to play offline playlists.",
+  "intent": "technical",
+  "confidence": 0.95
+ },
+ {
+  "text": "Can you please cancel my subscription effective immediately?",
+  "intent": "cancellation",
+  "confidence": 0.95
+ },
+ {
+  "text": "It would be great if you added a sleep timer to the desktop app.",
+  "intent": "feature_request",
+  "confidence": 0.95
+ }
+]

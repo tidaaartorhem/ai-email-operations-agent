@@ -1,0 +1,192 @@
+[
+ {
+  "thread_a": "2391990",
+  "thread_b": "2513050",
+  "similarity": 1.0,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 Where is your iPhone X update? \ud83d\ude44 https://t.co/P9MtCZeTvK",
+  "text_b": "@3493 @115888 why is there no iPhone X update yet?"
+ },
+ {
+  "thread_a": "2629117",
+  "thread_b": "2614451",
+  "similarity": 0.77,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 where is the perfect velvet\ud83d\ude14",
+  "text_b": "i can't see perfect velvet FIX IT! @115888"
+ },
+ {
+  "thread_a": "2704343",
+  "thread_b": "2641105",
+  "similarity": 0.749,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@115888 I need help with my account.",
+  "text_b": "@SpotifyCares I need help please"
+ },
+ {
+  "thread_a": "2391990",
+  "thread_b": "2473691",
+  "similarity": 0.742,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 Where is your iPhone X update? \ud83d\ude44 https://t.co/P9MtCZeTvK",
+  "text_b": "Hey @115888 where is iPhone X update?"
+ },
+ {
+  "thread_a": "2473691",
+  "thread_b": "2513050",
+  "similarity": 0.742,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "Hey @115888 where is iPhone X update?",
+  "text_b": "@3493 @115888 why is there no iPhone X update yet?"
+ },
+ {
+  "thread_a": "2641105",
+  "thread_b": "2593450",
+  "similarity": 0.7,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@SpotifyCares I need help please",
+  "text_b": "@117153  i need help with the app"
+ },
+ {
+  "thread_a": "2517274",
+  "thread_b": "2358993",
+  "similarity": 0.685,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 when can we get iPhone X optimization for your app?",
+  "text_b": "@115888 Where the heck is the iPhone X optimization? Almost every other app is optimized already! Seriously thinking about quitting the service."
+ },
+ {
+  "thread_a": "2557550",
+  "thread_b": "2653201",
+  "similarity": 0.68,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@SpotifyCares so you get a 30 day trial for individual, but not for family plan?  I just signed up and see I was charged for family plan",
+  "text_b": "@SpotifyCares how do I find out who owns family plan"
+ },
+ {
+  "thread_a": "2616768",
+  "thread_b": "2431656",
+  "similarity": 0.673,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@SpotifyCares Can you change my Spotify Facebook account to a normal Spotify account?",
+  "text_b": "@115888 how can I change my Spotify account settings if it\u2019s a Facebook account but I deleted my Facebook page months ago? Help!!"
+ },
+ {
+  "thread_a": "2394579",
+  "thread_b": "2404067",
+  "similarity": 0.629,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "Come on @115888 - 2 app updates since the iPhone X release and still no support?",
+  "text_b": "@115888 has released 2 updates since iPhone X release, neither with support for the new screen. I\u2019m shook."
+ },
+ {
+  "thread_a": "2707737",
+  "thread_b": "2431656",
+  "similarity": 0.626,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@116380 if deleted my Facebook account and now cannot access my spotify account. Help.",
+  "text_b": "@115888 how can I change my Spotify account settings if it\u2019s a Facebook account but I deleted my Facebook page months ago? Help!!"
+ },
+ {
+  "thread_a": "2371466",
+  "thread_b": "2527171",
+  "similarity": 0.618,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 @SpotifyCares if you\u2019re unsigned/not very popular, how would you get your music onto Spotify?",
+  "text_b": "@115888 It would be great to have Tool's music in Spotify"
+ },
+ {
+  "thread_a": "2704343",
+  "thread_b": "2455446",
+  "similarity": 0.607,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@115888 I need help with my account.",
+  "text_b": "@SpotifyCares I need help.  My account looks like it may have been compromised."
+ },
+ {
+  "thread_a": "2360631",
+  "thread_b": "2653201",
+  "similarity": 0.598,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@115888 my boyfriend and I share a family plan. We\u2019re both also students, how do we go about switching to the student plan? Will we have to separately do it?",
+  "text_b": "@SpotifyCares how do I find out who owns family plan"
+ },
+ {
+  "thread_a": "2620064",
+  "thread_b": "2653076",
+  "similarity": 0.577,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@SpotifyCares hey i sent you a dm regarding my query",
+  "text_b": "@115888 is it possible to dm you regarding a problem with my account please? x"
+ },
+ {
+  "thread_a": "2616768",
+  "thread_b": "2707737",
+  "similarity": 0.572,
+  "intent_a": "billing",
+  "intent_b": "billing",
+  "same_intent": true,
+  "text_a": "@SpotifyCares Can you change my Spotify Facebook account to a normal Spotify account?",
+  "text_b": "@116380 if deleted my Facebook account and now cannot access my spotify account. Help."
+ },
+ {
+  "thread_a": "2391990",
+  "thread_b": "2364789",
+  "similarity": 0.572,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "@115888 Where is your iPhone X update? \ud83d\ude44 https://t.co/P9MtCZeTvK",
+  "text_b": "When that much needed iPhone X update coming @115888 ?"
+ },
+ {
+  "thread_a": "2364789",
+  "thread_b": "2513050",
+  "similarity": 0.572,
+  "intent_a": "technical",
+  "intent_b": "technical",
+  "same_intent": true,
+  "text_a": "When that much needed iPhone X update coming @115888 ?",
+  "text_b": "@3493 @115888 why is there no iPhone X update yet?"
+ },
+ {
+  "thread_a": "2439883",
+  "thread_b": "2580713",
+  "similarity": 0.677,
+  "intent_a": "technical",
+  "intent_b": "billing",
+  "same_intent": false,
+  "text_a": "@115888 where\u2019s #reputation at?",
+  "text_b": "@SpotifyCares we want reputation"
+ }
+]

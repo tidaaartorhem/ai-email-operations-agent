@@ -1,0 +1,186 @@
+{
+ "totals": {
+  "threads": 3084,
+  "open": 465,
+  "closed": 2619,
+  "breached": 9,
+  "at_risk": 256,
+  "on_track": 200,
+  "needs_response": 11,
+  "awaiting_customer": 454,
+  "close_candidates": 148,
+  "silent_breaches": 8,
+  "duplicate_pairs": 19,
+  "auto_archived_promo": 8,
+  "actions": {
+   "monitor": 297,
+   "close": 143,
+   "escalate": 9,
+   "merge": 14,
+   "reply": 2
+  }
+ },
+ "by_intent": [
+  {
+   "intent": "technical",
+   "threads": 1550,
+   "open": 252,
+   "median_first_response_min": 61.1,
+   "median_first_response_human": "1.0h",
+   "breach_rate": 0.008,
+   "priority": "P2"
+  },
+  {
+   "intent": "billing",
+   "threads": 1231,
+   "open": 178,
+   "median_first_response_min": 54.1,
+   "median_first_response_human": "54m",
+   "breach_rate": 0.039,
+   "priority": "P1"
+  },
+  {
+   "intent": "account_access",
+   "threads": 155,
+   "open": 17,
+   "median_first_response_min": 48.0,
+   "median_first_response_human": "48m",
+   "breach_rate": 0.0,
+   "priority": "P1"
+  },
+  {
+   "intent": "cancellation",
+   "threads": 73,
+   "open": 12,
+   "median_first_response_min": 48.4,
+   "median_first_response_human": "48m",
+   "breach_rate": 0.0,
+   "priority": "P1"
+  },
+  {
+   "intent": "feature_request",
+   "threads": 63,
+   "open": 6,
+   "median_first_response_min": 42.2,
+   "median_first_response_human": "42m",
+   "breach_rate": 0.0,
+   "priority": "P3"
+  },
+  {
+   "intent": "promo",
+   "threads": 9,
+   "open": 0,
+   "median_first_response_min": 14202.0,
+   "median_first_response_human": "9.9d",
+   "breach_rate": 0,
+   "priority": "P3"
+  },
+  {
+   "intent": "dm_handoff",
+   "threads": 3,
+   "open": 0,
+   "median_first_response_min": 132.6,
+   "median_first_response_human": "2.2h",
+   "breach_rate": 0,
+   "priority": "P2"
+  }
+ ],
+ "by_hour": [
+  {
+   "hour": 0,
+   "threads": 108
+  },
+  {
+   "hour": 1,
+   "threads": 119
+  },
+  {
+   "hour": 2,
+   "threads": 95
+  },
+  {
+   "hour": 3,
+   "threads": 103
+  },
+  {
+   "hour": 4,
+   "threads": 103
+  },
+  {
+   "hour": 5,
+   "threads": 70
+  },
+  {
+   "hour": 6,
+   "threads": 83
+  },
+  {
+   "hour": 7,
+   "threads": 79
+  },
+  {
+   "hour": 8,
+   "threads": 76
+  },
+  {
+   "hour": 9,
+   "threads": 89
+  },
+  {
+   "hour": 10,
+   "threads": 117
+  },
+  {
+   "hour": 11,
+   "threads": 108
+  },
+  {
+   "hour": 12,
+   "threads": 114
+  },
+  {
+   "hour": 13,
+   "threads": 135
+  },
+  {
+   "hour": 14,
+   "threads": 168
+  },
+  {
+   "hour": 15,
+   "threads": 192
+  },
+  {
+   "hour": 16,
+   "threads": 194
+  },
+  {
+   "hour": 17,
+   "threads": 173
+  },
+  {
+   "hour": 18,
+   "threads": 179
+  },
+  {
+   "hour": 19,
+   "threads": 184
+  },
+  {
+   "hour": 20,
+   "threads": 157
+  },
+  {
+   "hour": 21,
+   "threads": 183
+  },
+  {
+   "hour": 22,
+   "threads": 136
+  },
+  {
+   "hour": 23,
+   "threads": 119
+  }
+ ]
+}
